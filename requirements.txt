@@ -1,0 +1,6 @@
+torch==2.6.0
+torch-npu==2.6.0.post5
+torchvision==0.21.0
+transformers>=4.40.0
+pillow>=10.0.0
+numpy>=1.24.0
