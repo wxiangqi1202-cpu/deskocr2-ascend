@@ -333,15 +333,12 @@ Apache License 2.0 - 详见 [LICENSE](./LICENSE)
 
 - **DeepSeek AI** - DeepSeek-OCR 模型
 - **华为昇腾** - NPU 硬件和 CANN 工具链
-- **智子芯元* - kernelcat助手
+- **智子芯元** - kernelcat助手
 
 
 ---
 
-## 📞 技术支持
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/deskocr-ascend/issues)
-- **华为昇腾**: https://www.hiascend.com/forum
 
 ---
 
