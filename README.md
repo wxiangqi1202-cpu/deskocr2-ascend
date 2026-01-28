@@ -333,7 +333,8 @@ Apache License 2.0 - 详见 [LICENSE](./LICENSE)
 
 - **DeepSeek AI** - DeepSeek-OCR 模型
 - **华为昇腾** - NPU 硬件和 CANN 工具链
-- **Hugging Face** - Transformers 框架
+- **智子芯元* - kernelcat助手
+
 
 ---
 
